@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment and credentials
+.env
+*.pem
+*.key
+
+# Runtime-generated files
+src/dashboard_0210/temp_inventory.ini
+src/dashboard_0210/reports/
+src/dashboard_0210/history/
+reports/
+history/
+*.xlsx
+*.log
+
+# Nuclei templates are downloaded separately
+src/dashboard_0210/nuclei-templates/
+nuclei-templates/
+
+# IDE and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
