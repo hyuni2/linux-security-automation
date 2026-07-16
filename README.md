@@ -1,5 +1,3 @@
-README.md
-
 # Linux Security Automation
 
 > KISA 기준에 따라 Linux 서버의 보안 취약점을 진단하고, 운영 영향을 고려해 선택적으로 조치한 뒤 재진단까지 수행하는 자동화 프로젝트
